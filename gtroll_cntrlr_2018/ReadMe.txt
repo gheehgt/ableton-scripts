@@ -1,10 +1,12 @@
 ----------------------------------------------------------------------------
 
-provided by gheehgt / hotgreentea.net
+script by aumhaa: https://github.com/aumhaa ; http://www.aumhaa.com
+
+provided for and by gheehgt / hotgreentea.net
 
 ----------------------------------------------------------------------------
 
-quick and dirty ableton live script for the livid cntrlr
+comission
 
 ----------------------------------------------------------------------------
 
